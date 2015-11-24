@@ -12,5 +12,5 @@ github_username:  suania
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
-#pygments: rouge
+#highlighter: rouge
+pygments: rouge
